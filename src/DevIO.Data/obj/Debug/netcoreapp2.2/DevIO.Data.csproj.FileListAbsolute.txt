@@ -1,0 +1,11 @@
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Bussines.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Bussines.pdb
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb

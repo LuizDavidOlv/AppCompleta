@@ -1,0 +1,9 @@
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\bin\Debug\netcoreapp2.2\DevIO.Bussines.deps.json
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\bin\Debug\netcoreapp2.2\DevIO.Bussines.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\bin\Debug\netcoreapp2.2\DevIO.Bussines.pdb
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.csprojAssemblyReference.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.AssemblyInfoInputs.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.AssemblyInfo.cs
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\MinhaAppMvcCompleta\src\DevIO.Bussines\obj\Debug\netcoreapp2.2\DevIO.Bussines.pdb
